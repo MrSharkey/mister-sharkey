@@ -1,1 +1,49 @@
+body  {
+   background-color:white;
+   background-size: cover;
+}
+    
+main h1  {
+   font-size: 60px;
+   color: #6780F5;
+   text-align:center; 
+   background-color: #DBFFF0 ;
+}
+ 
+main p {
+   font-size:30px;
+   color:#6780F5;
+   background-color: #DBFFF0;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif};
+   
+}
 
+
+
+main h2 {   
+   font-size:60px;
+   text-align:center;
+   color: #6780F5;
+}
+
+img {
+  width: 20%;
+  height: 60%;
+  display: block; 
+  margin: auto;  }
+iframe {
+  margin:auto;
+  display: inline-block;
+  
+}
+header {
+  background-color: #DBFFF0;
+  margin-top: 0%;
+}
+header h1 {
+   color: #95ABDE;
+
+}
+a { 
+   text-decoration: none;
+}
