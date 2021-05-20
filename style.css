@@ -47,4 +47,8 @@ header h1 {
 }
 a { 
    text-decoration: none;
+  
+}
+main {
+   grid-template-columns: 2 / 4;
 }
