@@ -39,6 +39,7 @@ iframe {
 header {
   background-color: #DBFFF0;
   margin-top: 0%;
+   grid-template-columns: 1 / 5;
 }
 header h1 {
    color: #95ABDE;
